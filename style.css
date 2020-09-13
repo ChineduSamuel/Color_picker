@@ -74,7 +74,7 @@ display: flex;
      color: rgb(13, 85, 167);
     display: block;
     padding-left: 3rem;
-    top: .5rem;
+    top: .05em;
  }
  .container .btn{
      width: 7rem;
